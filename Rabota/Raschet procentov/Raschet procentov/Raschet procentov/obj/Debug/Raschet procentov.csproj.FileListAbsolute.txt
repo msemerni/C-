@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\Raschet procentov\Raschet procentov\Raschet procentov\bin\Debug\Raschet procentov.exe.config
+D:\Программирование\Rabota\Raschet procentov\Raschet procentov\Raschet procentov\bin\Debug\Raschet procentov.exe
+D:\Программирование\Rabota\Raschet procentov\Raschet procentov\Raschet procentov\bin\Debug\Raschet procentov.pdb
+D:\Программирование\Rabota\Raschet procentov\Raschet procentov\Raschet procentov\obj\Debug\Raschet procentov.csprojResolveAssemblyReference.cache
+D:\Программирование\Rabota\Raschet procentov\Raschet procentov\Raschet procentov\obj\Debug\Raschet procentov.exe
+D:\Программирование\Rabota\Raschet procentov\Raschet procentov\Raschet procentov\obj\Debug\Raschet procentov.pdb

@@ -1,0 +1,12 @@
+d:\Программирование\Repo\Inteducation\msemerni\Game01\Game01\bin\Debug\Game01.exe.config
+D:\Программирование\Repo\Inteducation\msemerni\Game01\Game01\bin\Debug\Game01.exe
+D:\Программирование\Repo\Inteducation\msemerni\Game01\Game01\bin\Debug\Game01.pdb
+D:\Программирование\Repo\Inteducation\msemerni\Game01\Game01\obj\Debug\Game01.csprojResolveAssemblyReference.cache
+D:\Программирование\Repo\Inteducation\msemerni\Game01\Game01\obj\Debug\Game01.exe
+D:\Программирование\Repo\Inteducation\msemerni\Game01\Game01\obj\Debug\Game01.pdb
+d:\Программирование\Rabota\Game01\Game01\bin\Debug\Game01.exe.config
+d:\Программирование\Rabota\Game01\Game01\obj\Debug\Game01.exe
+d:\Программирование\Rabota\Game01\Game01\obj\Debug\Game01.pdb
+d:\Программирование\Rabota\Game01\Game01\bin\Debug\Game01.exe
+d:\Программирование\Rabota\Game01\Game01\bin\Debug\Game01.pdb
+d:\Программирование\Rabota\Game01\Game01\obj\Debug\Game01.csprojResolveAssemblyReference.cache

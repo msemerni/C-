@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\test\massiv_praktika\massiv_praktika\bin\Debug\massiv_praktika.exe.config
+D:\Программирование\Rabota\test\massiv_praktika\massiv_praktika\obj\Debug\massiv_praktika.csprojResolveAssemblyReference.cache
+D:\Программирование\Rabota\test\massiv_praktika\massiv_praktika\bin\Debug\massiv_praktika.exe
+D:\Программирование\Rabota\test\massiv_praktika\massiv_praktika\bin\Debug\massiv_praktika.pdb
+D:\Программирование\Rabota\test\massiv_praktika\massiv_praktika\obj\Debug\massiv_praktika.exe
+D:\Программирование\Rabota\test\massiv_praktika\massiv_praktika\obj\Debug\massiv_praktika.pdb

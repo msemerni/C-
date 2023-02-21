@@ -1,0 +1,11 @@
+D:\MV\Программирование\Проекты\WinForms\DeathScreen\bin\Debug\DeathScreen.exe.config
+D:\MV\Программирование\Проекты\WinForms\DeathScreen\bin\Debug\DeathScreen.exe
+D:\MV\Программирование\Проекты\WinForms\DeathScreen\bin\Debug\DeathScreen.pdb
+D:\MV\Программирование\Проекты\WinForms\DeathScreen\obj\Debug\DeathScreen.csprojAssemblyReference.cache
+D:\MV\Программирование\Проекты\WinForms\DeathScreen\obj\Debug\DeathScreen.Properties.Resources.resources
+D:\MV\Программирование\Проекты\WinForms\DeathScreen\obj\Debug\DeathScreen.csproj.GenerateResource.cache
+D:\MV\Программирование\Проекты\WinForms\DeathScreen\obj\Debug\DeathScreen.csproj.CoreCompileInputs.cache
+D:\MV\Программирование\Проекты\WinForms\DeathScreen\obj\Debug\DeathScreen.exe
+D:\MV\Программирование\Проекты\WinForms\DeathScreen\obj\Debug\DeathScreen.pdb
+D:\MV\Программирование\Проекты\WinForms\DeathScreen\obj\Debug\DeathScreen.Form1.resources
+D:\MV\Программирование\Проекты\WinForms\DeathScreen\obj\Debug\DeathScreen.Form2.resources

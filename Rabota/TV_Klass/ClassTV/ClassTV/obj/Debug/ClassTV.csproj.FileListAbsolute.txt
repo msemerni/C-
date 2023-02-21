@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\TV_Klass\ClassTV\ClassTV\bin\Debug\ClassTV.exe.config
+d:\Программирование\Rabota\TV_Klass\ClassTV\ClassTV\bin\Debug\ClassTV.exe
+d:\Программирование\Rabota\TV_Klass\ClassTV\ClassTV\bin\Debug\ClassTV.pdb
+d:\Программирование\Rabota\TV_Klass\ClassTV\ClassTV\obj\Debug\ClassTV.csprojResolveAssemblyReference.cache
+d:\Программирование\Rabota\TV_Klass\ClassTV\ClassTV\obj\Debug\ClassTV.exe
+d:\Программирование\Rabota\TV_Klass\ClassTV\ClassTV\obj\Debug\ClassTV.pdb

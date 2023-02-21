@@ -1,0 +1,6 @@
+D:\Программирование\Работа\1\Project_4\Project_4\bin\Debug\Project_4.exe.config
+D:\Программирование\Работа\1\Project_4\Project_4\bin\Debug\Project_4.exe
+D:\Программирование\Работа\1\Project_4\Project_4\bin\Debug\Project_4.pdb
+D:\Программирование\Работа\1\Project_4\Project_4\obj\Debug\Project_4.exe
+D:\Программирование\Работа\1\Project_4\Project_4\obj\Debug\Project_4.pdb
+d:\Программирование\Работа\1\Project_4\Project_4\obj\Debug\Project_4.csprojResolveAssemblyReference.cache

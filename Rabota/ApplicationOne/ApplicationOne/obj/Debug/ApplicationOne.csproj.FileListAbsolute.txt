@@ -1,0 +1,12 @@
+D:\Программирование\Rabota\ApplicationOne+\ApplicationOne\ApplicationOne\bin\Debug\ApplicationOne.exe.config
+D:\Программирование\Rabota\ApplicationOne+\ApplicationOne\ApplicationOne\bin\Debug\ApplicationOne.exe
+D:\Программирование\Rabota\ApplicationOne+\ApplicationOne\ApplicationOne\bin\Debug\ApplicationOne.pdb
+D:\Программирование\Rabota\ApplicationOne+\ApplicationOne\ApplicationOne\obj\Debug\ApplicationOne.exe
+D:\Программирование\Rabota\ApplicationOne+\ApplicationOne\ApplicationOne\obj\Debug\ApplicationOne.pdb
+d:\Программирование\Rabota\ApplicationOne\ApplicationOne\bin\Debug\ApplicationOne.exe.config
+d:\Программирование\Rabota\ApplicationOne\ApplicationOne\obj\Debug\ApplicationOne.exe
+d:\Программирование\Rabota\ApplicationOne\ApplicationOne\obj\Debug\ApplicationOne.pdb
+d:\Программирование\Rabota\ApplicationOne\ApplicationOne\bin\Debug\ApplicationOne.exe
+d:\Программирование\Rabota\ApplicationOne\ApplicationOne\bin\Debug\ApplicationOne.pdb
+d:\Программирование\Rabota\ApplicationOne\ApplicationOne\obj\Debug\ApplicationOne.csprojAssemblyReference.cache
+d:\Программирование\Rabota\ApplicationOne\ApplicationOne\obj\Debug\ApplicationOne.csproj.CoreCompileInputs.cache

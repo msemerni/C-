@@ -1,0 +1,11 @@
+D:\msemerni\Lection_5_cikl\cikl_1\cikl_1\bin\Debug\cikl_1.exe.config
+D:\msemerni\Lection_5_cikl\cikl_1\cikl_1\bin\Debug\cikl_1.exe
+D:\msemerni\Lection_5_cikl\cikl_1\cikl_1\bin\Debug\cikl_1.pdb
+D:\msemerni\Lection_5_cikl\cikl_1\cikl_1\obj\Debug\cikl_1.exe
+D:\msemerni\Lection_5_cikl\cikl_1\cikl_1\obj\Debug\cikl_1.pdb
+D:\Программирование\Rabota\Lection_5_cikl\cikl_1\cikl_1\bin\Debug\cikl_1.exe.config
+D:\Программирование\Rabota\Lection_5_cikl\cikl_1\cikl_1\obj\Debug\cikl_1.exe
+D:\Программирование\Rabota\Lection_5_cikl\cikl_1\cikl_1\obj\Debug\cikl_1.pdb
+d:\Программирование\Rabota\Lection_5_cikl\cikl_1\cikl_1\bin\Debug\cikl_1.exe
+d:\Программирование\Rabota\Lection_5_cikl\cikl_1\cikl_1\bin\Debug\cikl_1.pdb
+d:\Программирование\Rabota\Lection_5_cikl\cikl_1\cikl_1\obj\Debug\cikl_1.csprojResolveAssemblyReference.cache

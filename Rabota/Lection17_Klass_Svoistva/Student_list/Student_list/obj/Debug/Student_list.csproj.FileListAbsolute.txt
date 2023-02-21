@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\Lection17_Klass_Svoistva\Student_list\Student_list\bin\Debug\Student_list.exe.config
+D:\Программирование\Rabota\Lection17_Klass_Svoistva\Student_list\Student_list\bin\Debug\Student_list.exe
+D:\Программирование\Rabota\Lection17_Klass_Svoistva\Student_list\Student_list\bin\Debug\Student_list.pdb
+D:\Программирование\Rabota\Lection17_Klass_Svoistva\Student_list\Student_list\obj\Debug\Student_list.csprojResolveAssemblyReference.cache
+D:\Программирование\Rabota\Lection17_Klass_Svoistva\Student_list\Student_list\obj\Debug\Student_list.exe
+D:\Программирование\Rabota\Lection17_Klass_Svoistva\Student_list\Student_list\obj\Debug\Student_list.pdb

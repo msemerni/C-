@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\test\test\test\bin\Debug\test.exe.config
+D:\Программирование\Rabota\test\test\test\bin\Debug\test.exe
+D:\Программирование\Rabota\test\test\test\bin\Debug\test.pdb
+D:\Программирование\Rabota\test\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Программирование\Rabota\test\test\test\obj\Debug\test.exe
+D:\Программирование\Rabota\test\test\test\obj\Debug\test.pdb

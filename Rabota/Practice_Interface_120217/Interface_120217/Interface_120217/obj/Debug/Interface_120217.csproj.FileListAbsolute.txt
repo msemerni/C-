@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\Practice_Interface_120217\Interface_120217\Interface_120217\bin\Debug\Interface_120217.exe.config
+D:\Программирование\Rabota\Practice_Interface_120217\Interface_120217\Interface_120217\bin\Debug\Interface_120217.exe
+D:\Программирование\Rabota\Practice_Interface_120217\Interface_120217\Interface_120217\bin\Debug\Interface_120217.pdb
+D:\Программирование\Rabota\Practice_Interface_120217\Interface_120217\Interface_120217\obj\Debug\Interface_120217.exe
+D:\Программирование\Rabota\Practice_Interface_120217\Interface_120217\Interface_120217\obj\Debug\Interface_120217.pdb
+D:\Программирование\Rabota\Practice_Interface_120217\Interface_120217\Interface_120217\obj\Debug\Interface_120217.csprojResolveAssemblyReference.cache

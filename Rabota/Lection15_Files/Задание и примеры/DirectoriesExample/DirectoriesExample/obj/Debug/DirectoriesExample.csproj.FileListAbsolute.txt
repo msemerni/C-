@@ -1,0 +1,9 @@
+C:\My Files\TfsRepository\Inteducation2\Examples\DirectoriesExample\DirectoriesExample\bin\Debug\DirectoriesExample.exe.config
+C:\My Files\TfsRepository\Inteducation2\Examples\DirectoriesExample\DirectoriesExample\bin\Debug\DirectoriesExample.exe
+C:\My Files\TfsRepository\Inteducation2\Examples\DirectoriesExample\DirectoriesExample\bin\Debug\DirectoriesExample.pdb
+C:\My Files\TfsRepository\Inteducation2\Examples\DirectoriesExample\DirectoriesExample\obj\Debug\DirectoriesExample.csprojResolveAssemblyReference.cache
+C:\My Files\TfsRepository\Inteducation2\Examples\DirectoriesExample\DirectoriesExample\obj\Debug\DirectoriesExample.exe
+C:\My Files\TfsRepository\Inteducation2\Examples\DirectoriesExample\DirectoriesExample\obj\Debug\DirectoriesExample.pdb
+d:\Программирование\Rabota\Lection15_Files\Задание и примеры\DirectoriesExample\DirectoriesExample\bin\Debug\DirectoriesExample.exe.config
+d:\Программирование\Rabota\Lection15_Files\Задание и примеры\DirectoriesExample\DirectoriesExample\obj\Debug\DirectoriesExample.exe
+d:\Программирование\Rabota\Lection15_Files\Задание и примеры\DirectoriesExample\DirectoriesExample\obj\Debug\DirectoriesExample.pdb

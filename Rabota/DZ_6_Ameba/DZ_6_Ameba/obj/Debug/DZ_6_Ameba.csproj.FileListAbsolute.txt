@@ -1,0 +1,15 @@
+D:\Программирование\Работа\DZ_Ameba\DZ_6_Ameba\DZ_6_Ameba\bin\Debug\DZ_6_Ameba.exe.config
+D:\Программирование\Работа\DZ_Ameba\DZ_6_Ameba\DZ_6_Ameba\bin\Debug\DZ_6_Ameba.exe
+D:\Программирование\Работа\DZ_Ameba\DZ_6_Ameba\DZ_6_Ameba\bin\Debug\DZ_6_Ameba.pdb
+D:\Программирование\Работа\DZ_Ameba\DZ_6_Ameba\DZ_6_Ameba\obj\Debug\DZ_6_Ameba.csprojResolveAssemblyReference.cache
+D:\Программирование\Работа\DZ_Ameba\DZ_6_Ameba\DZ_6_Ameba\obj\Debug\DZ_6_Ameba.exe
+D:\Программирование\Работа\DZ_Ameba\DZ_6_Ameba\DZ_6_Ameba\obj\Debug\DZ_6_Ameba.pdb
+D:\Программирование\Работа\DZ_6_Ameba\DZ_6_Ameba\bin\Debug\DZ_6_Ameba.exe.config
+D:\Программирование\Работа\DZ_6_Ameba\DZ_6_Ameba\obj\Debug\DZ_6_Ameba.exe
+D:\Программирование\Работа\DZ_6_Ameba\DZ_6_Ameba\obj\Debug\DZ_6_Ameba.pdb
+D:\Программирование\Rabota\DZ_6_Ameba\DZ_6_Ameba\bin\Debug\DZ_6_Ameba.exe.config
+D:\Программирование\Rabota\DZ_6_Ameba\DZ_6_Ameba\obj\Debug\DZ_6_Ameba.exe
+D:\Программирование\Rabota\DZ_6_Ameba\DZ_6_Ameba\obj\Debug\DZ_6_Ameba.pdb
+D:\Программирование\Rabota\DZ_6_Ameba\DZ_6_Ameba\bin\Debug\DZ_6_Ameba.exe
+D:\Программирование\Rabota\DZ_6_Ameba\DZ_6_Ameba\bin\Debug\DZ_6_Ameba.pdb
+D:\Программирование\Rabota\DZ_6_Ameba\DZ_6_Ameba\obj\Debug\DZ_6_Ameba.csprojResolveAssemblyReference.cache

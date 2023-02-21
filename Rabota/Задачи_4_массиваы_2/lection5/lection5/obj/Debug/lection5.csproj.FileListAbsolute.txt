@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\prezentacii\lection5\lection5\bin\Debug\lection5.exe.config
+D:\Программирование\Rabota\prezentacii\lection5\lection5\bin\Debug\lection5.exe
+D:\Программирование\Rabota\prezentacii\lection5\lection5\bin\Debug\lection5.pdb
+D:\Программирование\Rabota\prezentacii\lection5\lection5\obj\Debug\lection5.exe
+D:\Программирование\Rabota\prezentacii\lection5\lection5\obj\Debug\lection5.pdb
+d:\Программирование\Rabota\prezentacii\lection5\lection5\obj\Debug\lection5.csprojResolveAssemblyReference.cache

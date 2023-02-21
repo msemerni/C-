@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\Practice_Employee_120217\Employee_120217\Employee_120217\bin\Debug\Employee_120217.exe.config
+D:\Программирование\Rabota\Practice_Employee_120217\Employee_120217\Employee_120217\bin\Debug\Employee_120217.exe
+D:\Программирование\Rabota\Practice_Employee_120217\Employee_120217\Employee_120217\bin\Debug\Employee_120217.pdb
+D:\Программирование\Rabota\Practice_Employee_120217\Employee_120217\Employee_120217\obj\Debug\Employee_120217.exe
+D:\Программирование\Rabota\Practice_Employee_120217\Employee_120217\Employee_120217\obj\Debug\Employee_120217.pdb
+d:\Программирование\Rabota\Practice_Employee_120217\Employee_120217\Employee_120217\obj\Debug\Employee_120217.csprojResolveAssemblyReference.cache

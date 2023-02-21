@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\Lection19_Stack\STACK_Push_Pop_Clear\STACK_Push_Pop_Clear\bin\Debug\STACK_Push_Pop_Clear.exe.config
+d:\Программирование\Rabota\Lection19_Stack\STACK_Push_Pop_Clear\STACK_Push_Pop_Clear\bin\Debug\STACK_Push_Pop_Clear.exe
+d:\Программирование\Rabota\Lection19_Stack\STACK_Push_Pop_Clear\STACK_Push_Pop_Clear\bin\Debug\STACK_Push_Pop_Clear.pdb
+d:\Программирование\Rabota\Lection19_Stack\STACK_Push_Pop_Clear\STACK_Push_Pop_Clear\obj\Debug\STACK_Push_Pop_Clear.csprojResolveAssemblyReference.cache
+d:\Программирование\Rabota\Lection19_Stack\STACK_Push_Pop_Clear\STACK_Push_Pop_Clear\obj\Debug\STACK_Push_Pop_Clear.exe
+d:\Программирование\Rabota\Lection19_Stack\STACK_Push_Pop_Clear\STACK_Push_Pop_Clear\obj\Debug\STACK_Push_Pop_Clear.pdb

@@ -1,0 +1,16 @@
+D:\msemerni\pr\sezon2\sezon2\bin\Debug\sezon2.exe.config
+D:\Программирование\Работа\pr\sezon2\sezon2\bin\Debug\sezon2.exe.config
+D:\Программирование\Работа\pr\sezon2\sezon2\bin\Debug\sezon2.exe
+D:\Программирование\Работа\pr\sezon2\sezon2\bin\Debug\sezon2.pdb
+D:\Программирование\Работа\pr\sezon2\sezon2\obj\Debug\sezon2.csprojResolveAssemblyReference.cache
+D:\Программирование\Работа\pr\sezon2\sezon2\obj\Debug\sezon2.exe
+D:\Программирование\Работа\pr\sezon2\sezon2\obj\Debug\sezon2.pdb
+D:\Программирование\Работа\pr2\sezon2\sezon2\bin\Debug\sezon2.exe.config
+D:\Программирование\Работа\pr2\sezon2\sezon2\obj\Debug\sezon2.exe
+D:\Программирование\Работа\pr2\sezon2\sezon2\obj\Debug\sezon2.pdb
+D:\Программирование\Работа\pr2\sezon2\sezon2\bin\Debug\sezon2.exe
+D:\Программирование\Работа\pr2\sezon2\sezon2\bin\Debug\sezon2.pdb
+D:\Программирование\Работа\pr2\sezon2\sezon2\obj\Debug\sezon2.csprojResolveAssemblyReference.cache
+d:\Программирование\Rabota\pr2\sezon2\sezon2\bin\Debug\sezon2.exe.config
+d:\Программирование\Rabota\pr2\sezon2\sezon2\obj\Debug\sezon2.exe
+d:\Программирование\Rabota\pr2\sezon2\sezon2\obj\Debug\sezon2.pdb

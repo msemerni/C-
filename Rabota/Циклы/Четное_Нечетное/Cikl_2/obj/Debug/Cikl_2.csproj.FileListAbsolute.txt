@@ -1,0 +1,7 @@
+D:\msemerni\Lection_5_cikl\Cikl_2\Cikl_2\bin\Debug\Cikl_2.exe.config
+D:\Программирование\Rabota\Lection_5_cikl\Cikl_2\Cikl_2\bin\Debug\Cikl_2.exe.config
+D:\Программирование\Rabota\Lection_5_cikl\Cikl_2\Cikl_2\bin\Debug\Cikl_2.exe
+D:\Программирование\Rabota\Lection_5_cikl\Cikl_2\Cikl_2\bin\Debug\Cikl_2.pdb
+D:\Программирование\Rabota\Lection_5_cikl\Cikl_2\Cikl_2\obj\Debug\Cikl_2.csprojResolveAssemblyReference.cache
+D:\Программирование\Rabota\Lection_5_cikl\Cikl_2\Cikl_2\obj\Debug\Cikl_2.exe
+D:\Программирование\Rabota\Lection_5_cikl\Cikl_2\Cikl_2\obj\Debug\Cikl_2.pdb

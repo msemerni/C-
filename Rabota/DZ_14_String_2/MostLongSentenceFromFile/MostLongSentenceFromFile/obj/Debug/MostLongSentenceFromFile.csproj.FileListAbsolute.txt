@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\DZ_14_String_2\MostLongSentenceFromFile\MostLongSentenceFromFile\bin\Debug\MostLongSentenceFromFile.exe.config
+D:\Программирование\Rabota\DZ_14_String_2\MostLongSentenceFromFile\MostLongSentenceFromFile\bin\Debug\MostLongSentenceFromFile.exe
+D:\Программирование\Rabota\DZ_14_String_2\MostLongSentenceFromFile\MostLongSentenceFromFile\bin\Debug\MostLongSentenceFromFile.pdb
+D:\Программирование\Rabota\DZ_14_String_2\MostLongSentenceFromFile\MostLongSentenceFromFile\obj\Debug\MostLongSentenceFromFile.csprojResolveAssemblyReference.cache
+D:\Программирование\Rabota\DZ_14_String_2\MostLongSentenceFromFile\MostLongSentenceFromFile\obj\Debug\MostLongSentenceFromFile.exe
+D:\Программирование\Rabota\DZ_14_String_2\MostLongSentenceFromFile\MostLongSentenceFromFile\obj\Debug\MostLongSentenceFromFile.pdb

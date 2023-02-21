@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\DZ_15_Sekundomer\Sekundomer\Sekundomer\bin\Debug\Sekundomer.exe.config
+d:\Программирование\Rabota\DZ_15_Sekundomer\Sekundomer\Sekundomer\bin\Debug\Sekundomer.exe
+d:\Программирование\Rabota\DZ_15_Sekundomer\Sekundomer\Sekundomer\bin\Debug\Sekundomer.pdb
+d:\Программирование\Rabota\DZ_15_Sekundomer\Sekundomer\Sekundomer\obj\Debug\Sekundomer.exe
+d:\Программирование\Rabota\DZ_15_Sekundomer\Sekundomer\Sekundomer\obj\Debug\Sekundomer.pdb
+d:\Программирование\Rabota\DZ_15_Sekundomer\Sekundomer\Sekundomer\obj\Debug\Sekundomer.csprojResolveAssemblyReference.cache

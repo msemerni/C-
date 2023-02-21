@@ -1,0 +1,12 @@
+c:\users\mv\documents\visual studio 2015\Projects\DateTime_1\DateTime_1\bin\Debug\DateTime_1.exe.config
+c:\users\mv\documents\visual studio 2015\Projects\DateTime_1\DateTime_1\bin\Debug\DateTime_1.exe
+c:\users\mv\documents\visual studio 2015\Projects\DateTime_1\DateTime_1\bin\Debug\DateTime_1.pdb
+c:\users\mv\documents\visual studio 2015\Projects\DateTime_1\DateTime_1\obj\Debug\DateTime_1.csprojResolveAssemblyReference.cache
+c:\users\mv\documents\visual studio 2015\Projects\DateTime_1\DateTime_1\obj\Debug\DateTime_1.exe
+c:\users\mv\documents\visual studio 2015\Projects\DateTime_1\DateTime_1\obj\Debug\DateTime_1.pdb
+d:\Программирование\Rabota\Lection13_Klass\DateTime_1\DateTime_1\bin\Debug\DateTime_1.exe.config
+d:\Программирование\Rabota\Lection13_Klass\DateTime_1\DateTime_1\obj\Debug\DateTime_1.exe
+d:\Программирование\Rabota\Lection13_Klass\DateTime_1\DateTime_1\obj\Debug\DateTime_1.pdb
+d:\Программирование\Rabota\Lection13_Klass\DateTime_1\DateTime_1\bin\Debug\DateTime_1.exe
+d:\Программирование\Rabota\Lection13_Klass\DateTime_1\DateTime_1\bin\Debug\DateTime_1.pdb
+d:\Программирование\Rabota\Lection13_Klass\DateTime_1\DateTime_1\obj\Debug\DateTime_1.csprojResolveAssemblyReference.cache

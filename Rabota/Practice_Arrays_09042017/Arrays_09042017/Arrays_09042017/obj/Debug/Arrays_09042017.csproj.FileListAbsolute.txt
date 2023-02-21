@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\Practice_Arrays_09042017\Arrays_09042017\Arrays_09042017\bin\Debug\Arrays_09042017.exe.config
+D:\Программирование\Rabota\Practice_Arrays_09042017\Arrays_09042017\Arrays_09042017\bin\Debug\Arrays_09042017.exe
+D:\Программирование\Rabota\Practice_Arrays_09042017\Arrays_09042017\Arrays_09042017\bin\Debug\Arrays_09042017.pdb
+D:\Программирование\Rabota\Practice_Arrays_09042017\Arrays_09042017\Arrays_09042017\obj\Debug\Arrays_09042017.csprojResolveAssemblyReference.cache
+D:\Программирование\Rabota\Practice_Arrays_09042017\Arrays_09042017\Arrays_09042017\obj\Debug\Arrays_09042017.exe
+D:\Программирование\Rabota\Practice_Arrays_09042017\Arrays_09042017\Arrays_09042017\obj\Debug\Arrays_09042017.pdb

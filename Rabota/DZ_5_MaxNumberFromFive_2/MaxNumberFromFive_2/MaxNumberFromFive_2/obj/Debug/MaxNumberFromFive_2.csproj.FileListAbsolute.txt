@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\DZ_5_MaxNumberFromFive_2\MaxNumberFromFive_2\MaxNumberFromFive_2\bin\Debug\MaxNumberFromFive_2.exe.config
+D:\Программирование\Rabota\DZ_5_MaxNumberFromFive_2\MaxNumberFromFive_2\MaxNumberFromFive_2\bin\Debug\MaxNumberFromFive_2.exe
+D:\Программирование\Rabota\DZ_5_MaxNumberFromFive_2\MaxNumberFromFive_2\MaxNumberFromFive_2\bin\Debug\MaxNumberFromFive_2.pdb
+D:\Программирование\Rabota\DZ_5_MaxNumberFromFive_2\MaxNumberFromFive_2\MaxNumberFromFive_2\obj\Debug\MaxNumberFromFive_2.exe
+D:\Программирование\Rabota\DZ_5_MaxNumberFromFive_2\MaxNumberFromFive_2\MaxNumberFromFive_2\obj\Debug\MaxNumberFromFive_2.pdb
+D:\Программирование\Rabota\DZ_5_MaxNumberFromFive_2\MaxNumberFromFive_2\MaxNumberFromFive_2\obj\Debug\MaxNumberFromFive_2.csprojResolveAssemblyReference.cache

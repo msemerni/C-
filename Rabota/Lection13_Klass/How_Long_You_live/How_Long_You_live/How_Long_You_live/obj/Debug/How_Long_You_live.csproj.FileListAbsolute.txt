@@ -1,0 +1,13 @@
+D:\Программирование\Rabota\Lection13_Klass\How_Long_You_live\How_Long_You_live\How_Long_You_live\bin\Debug\How_Long_You_live.exe.config
+D:\Программирование\Rabota\Lection13_Klass\How_Long_You_live\How_Long_You_live\How_Long_You_live\bin\Debug\How_Long_You_live.exe
+D:\Программирование\Rabota\Lection13_Klass\How_Long_You_live\How_Long_You_live\How_Long_You_live\bin\Debug\How_Long_You_live.pdb
+D:\Программирование\Rabota\Lection13_Klass\How_Long_You_live\How_Long_You_live\How_Long_You_live\obj\Debug\How_Long_You_live.exe
+D:\Программирование\Rabota\Lection13_Klass\How_Long_You_live\How_Long_You_live\How_Long_You_live\obj\Debug\How_Long_You_live.pdb
+D:\Программирование\Rabota\Lection13_Klass\How_Long_You_live\How_Long_You_live\How_Long_You_live\obj\Debug\How_Long_You_live.csprojResolveAssemblyReference.cache
+d:\Миша\Программирование\Rabota\Lection13_Klass\How_Long_You_live\How_Long_You_live\How_Long_You_live\bin\Debug\How_Long_You_live.exe.config
+d:\Миша\Программирование\Rabota\Lection13_Klass\How_Long_You_live\How_Long_You_live\How_Long_You_live\bin\Debug\How_Long_You_live.exe
+d:\Миша\Программирование\Rabota\Lection13_Klass\How_Long_You_live\How_Long_You_live\How_Long_You_live\bin\Debug\How_Long_You_live.pdb
+d:\Миша\Программирование\Rabota\Lection13_Klass\How_Long_You_live\How_Long_You_live\How_Long_You_live\obj\Debug\How_Long_You_live.csprojAssemblyReference.cache
+d:\Миша\Программирование\Rabota\Lection13_Klass\How_Long_You_live\How_Long_You_live\How_Long_You_live\obj\Debug\How_Long_You_live.csproj.CoreCompileInputs.cache
+d:\Миша\Программирование\Rabota\Lection13_Klass\How_Long_You_live\How_Long_You_live\How_Long_You_live\obj\Debug\How_Long_You_live.exe
+d:\Миша\Программирование\Rabota\Lection13_Klass\How_Long_You_live\How_Long_You_live\How_Long_You_live\obj\Debug\How_Long_You_live.pdb

@@ -1,0 +1,9 @@
+D:\Программирование\Работа\1\Project_1\Project_1\bin\Debug\Project_1.exe.config
+D:\Программирование\Работа\1\Project_1\Project_1\obj\Debug\Project_1.csprojResolveAssemblyReference.cache
+D:\Программирование\Работа\1\Project_1\Project_1\bin\Debug\Project_1.exe
+D:\Программирование\Работа\1\Project_1\Project_1\bin\Debug\Project_1.pdb
+D:\Программирование\Работа\1\Project_1\Project_1\obj\Debug\Project_1.exe
+D:\Программирование\Работа\1\Project_1\Project_1\obj\Debug\Project_1.pdb
+D:\Программирование\Работа\1\Введите_своё_имя\Project_1\bin\Debug\Project_1.exe.config
+D:\Программирование\Работа\1\Введите_своё_имя\Project_1\obj\Debug\Project_1.exe
+D:\Программирование\Работа\1\Введите_своё_имя\Project_1\obj\Debug\Project_1.pdb

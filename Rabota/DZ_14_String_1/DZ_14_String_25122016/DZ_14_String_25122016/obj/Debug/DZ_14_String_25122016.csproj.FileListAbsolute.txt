@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\DZ_14_String_1\DZ_14_String_25122016\DZ_14_String_25122016\bin\Debug\DZ_14_String_25122016.exe.config
+D:\Программирование\Rabota\DZ_14_String_1\DZ_14_String_25122016\DZ_14_String_25122016\bin\Debug\DZ_14_String_25122016.exe
+D:\Программирование\Rabota\DZ_14_String_1\DZ_14_String_25122016\DZ_14_String_25122016\bin\Debug\DZ_14_String_25122016.pdb
+D:\Программирование\Rabota\DZ_14_String_1\DZ_14_String_25122016\DZ_14_String_25122016\obj\Debug\DZ_14_String_25122016.csprojResolveAssemblyReference.cache
+D:\Программирование\Rabota\DZ_14_String_1\DZ_14_String_25122016\DZ_14_String_25122016\obj\Debug\DZ_14_String_25122016.exe
+D:\Программирование\Rabota\DZ_14_String_1\DZ_14_String_25122016\DZ_14_String_25122016\obj\Debug\DZ_14_String_25122016.pdb

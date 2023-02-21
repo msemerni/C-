@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\DZ_7_1_VkladVBank_2var\VkladVBank_2var\VkladVBank_2var\bin\Debug\VkladVBank_2var.exe.config
+d:\Программирование\Rabota\DZ_7_1_VkladVBank_2var\VkladVBank_2var\VkladVBank_2var\bin\Debug\VkladVBank_2var.exe
+d:\Программирование\Rabota\DZ_7_1_VkladVBank_2var\VkladVBank_2var\VkladVBank_2var\bin\Debug\VkladVBank_2var.pdb
+d:\Программирование\Rabota\DZ_7_1_VkladVBank_2var\VkladVBank_2var\VkladVBank_2var\obj\Debug\VkladVBank_2var.csprojResolveAssemblyReference.cache
+d:\Программирование\Rabota\DZ_7_1_VkladVBank_2var\VkladVBank_2var\VkladVBank_2var\obj\Debug\VkladVBank_2var.exe
+d:\Программирование\Rabota\DZ_7_1_VkladVBank_2var\VkladVBank_2var\VkladVBank_2var\obj\Debug\VkladVBank_2var.pdb

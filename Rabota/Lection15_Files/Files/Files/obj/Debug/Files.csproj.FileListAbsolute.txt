@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\Lection15_Files\Files\Files\bin\Debug\Files.exe.config
+D:\Программирование\Rabota\Lection15_Files\Files\Files\bin\Debug\Files.exe
+D:\Программирование\Rabota\Lection15_Files\Files\Files\bin\Debug\Files.pdb
+D:\Программирование\Rabota\Lection15_Files\Files\Files\obj\Debug\Files.csprojResolveAssemblyReference.cache
+D:\Программирование\Rabota\Lection15_Files\Files\Files\obj\Debug\Files.exe
+D:\Программирование\Rabota\Lection15_Files\Files\Files\obj\Debug\Files.pdb

@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\DZ_7_2_DelenieNa3NoNeNa5\DelenieNa3NoNeNa5\DelenieNa3NoNeNa5\bin\Debug\DelenieNa3NoNeNa5.exe.config
+D:\Программирование\Rabota\DZ_7_2_DelenieNa3NoNeNa5\DelenieNa3NoNeNa5\DelenieNa3NoNeNa5\bin\Debug\DelenieNa3NoNeNa5.exe
+D:\Программирование\Rabota\DZ_7_2_DelenieNa3NoNeNa5\DelenieNa3NoNeNa5\DelenieNa3NoNeNa5\bin\Debug\DelenieNa3NoNeNa5.pdb
+D:\Программирование\Rabota\DZ_7_2_DelenieNa3NoNeNa5\DelenieNa3NoNeNa5\DelenieNa3NoNeNa5\obj\Debug\DelenieNa3NoNeNa5.exe
+D:\Программирование\Rabota\DZ_7_2_DelenieNa3NoNeNa5\DelenieNa3NoNeNa5\DelenieNa3NoNeNa5\obj\Debug\DelenieNa3NoNeNa5.pdb
+d:\Программирование\Rabota\DZ_7_2_DelenieNa3NoNeNa5\DelenieNa3NoNeNa5\DelenieNa3NoNeNa5\obj\Debug\DelenieNa3NoNeNa5.csprojResolveAssemblyReference.cache

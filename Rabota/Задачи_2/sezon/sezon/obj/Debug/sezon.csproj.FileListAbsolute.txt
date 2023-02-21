@@ -1,0 +1,12 @@
+D:\msemerni\pr\sezon\sezon\bin\Debug\sezon.exe.config
+D:\Программирование\Работа\pr\sezon\sezon\bin\Debug\sezon.exe.config
+D:\Программирование\Работа\pr\sezon\sezon\obj\Debug\sezon.csprojResolveAssemblyReference.cache
+D:\Программирование\Работа\pr2\sezon\sezon\bin\Debug\sezon.exe.config
+D:\Программирование\Работа\pr2\sezon\sezon\obj\Debug\sezon.csprojResolveAssemblyReference.cache
+D:\Программирование\Работа\pr2\sezon\sezon\bin\Debug\sezon.exe
+D:\Программирование\Работа\pr2\sezon\sezon\bin\Debug\sezon.pdb
+D:\Программирование\Работа\pr2\sezon\sezon\obj\Debug\sezon.exe
+D:\Программирование\Работа\pr2\sezon\sezon\obj\Debug\sezon.pdb
+d:\Программирование\Rabota\pr2\sezon\sezon\bin\Debug\sezon.exe.config
+d:\Программирование\Rabota\pr2\sezon\sezon\obj\Debug\sezon.exe
+d:\Программирование\Rabota\pr2\sezon\sezon\obj\Debug\sezon.pdb

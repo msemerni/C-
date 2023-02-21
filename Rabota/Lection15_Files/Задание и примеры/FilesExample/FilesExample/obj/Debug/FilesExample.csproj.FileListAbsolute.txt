@@ -1,0 +1,9 @@
+C:\My Files\TfsRepository\Inteducation2\Examples\FilesExample\FilesExample\bin\Debug\FilesExample.exe.config
+C:\My Files\TfsRepository\Inteducation2\Examples\FilesExample\FilesExample\bin\Debug\FilesExample.exe
+C:\My Files\TfsRepository\Inteducation2\Examples\FilesExample\FilesExample\bin\Debug\FilesExample.pdb
+C:\My Files\TfsRepository\Inteducation2\Examples\FilesExample\FilesExample\obj\Debug\FilesExample.csprojResolveAssemblyReference.cache
+C:\My Files\TfsRepository\Inteducation2\Examples\FilesExample\FilesExample\obj\Debug\FilesExample.exe
+C:\My Files\TfsRepository\Inteducation2\Examples\FilesExample\FilesExample\obj\Debug\FilesExample.pdb
+d:\Программирование\Rabota\Lection15_Files\Задание и примеры\FilesExample\FilesExample\bin\Debug\FilesExample.exe.config
+d:\Программирование\Rabota\Lection15_Files\Задание и примеры\FilesExample\FilesExample\obj\Debug\FilesExample.exe
+d:\Программирование\Rabota\Lection15_Files\Задание и примеры\FilesExample\FilesExample\obj\Debug\FilesExample.pdb

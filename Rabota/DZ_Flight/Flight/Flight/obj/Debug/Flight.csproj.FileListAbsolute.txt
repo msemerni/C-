@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\DZ_Flight\Flight\Flight\bin\Debug\Flight.exe.config
+D:\Программирование\Rabota\DZ_Flight\Flight\Flight\bin\Debug\Flight.exe
+D:\Программирование\Rabota\DZ_Flight\Flight\Flight\bin\Debug\Flight.pdb
+D:\Программирование\Rabota\DZ_Flight\Flight\Flight\obj\Debug\Flight.csprojResolveAssemblyReference.cache
+D:\Программирование\Rabota\DZ_Flight\Flight\Flight\obj\Debug\Flight.exe
+D:\Программирование\Rabota\DZ_Flight\Flight\Flight\obj\Debug\Flight.pdb

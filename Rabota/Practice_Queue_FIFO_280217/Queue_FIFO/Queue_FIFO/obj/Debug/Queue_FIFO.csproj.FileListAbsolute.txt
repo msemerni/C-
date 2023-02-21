@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\Practice_Queue_FIFO_280217\Queue_FIFO\Queue_FIFO\bin\Debug\Queue_FIFO.exe.config
+D:\Программирование\Rabota\Practice_Queue_FIFO_280217\Queue_FIFO\Queue_FIFO\bin\Debug\Queue_FIFO.exe
+D:\Программирование\Rabota\Practice_Queue_FIFO_280217\Queue_FIFO\Queue_FIFO\bin\Debug\Queue_FIFO.pdb
+D:\Программирование\Rabota\Practice_Queue_FIFO_280217\Queue_FIFO\Queue_FIFO\obj\Debug\Queue_FIFO.csprojResolveAssemblyReference.cache
+D:\Программирование\Rabota\Practice_Queue_FIFO_280217\Queue_FIFO\Queue_FIFO\obj\Debug\Queue_FIFO.exe
+D:\Программирование\Rabota\Practice_Queue_FIFO_280217\Queue_FIFO\Queue_FIFO\obj\Debug\Queue_FIFO.pdb

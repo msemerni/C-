@@ -1,0 +1,532 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Game01
+{
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.CursorVisible = false;
+            Drawer dr = new Drawer('@', '#');
+            Random rnd = new Random();
+            GameField field = new GameField(4, 4, 5, 5);
+            bool isNodeExist = false;
+
+            Console.BackgroundColor = ConsoleColor.Black;
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine("\nƒл€ старта нажмите любую клавишу.\nƒл€ выхода нажмите ESC");
+
+            dr.DrawGameFieldFrame(field, ConsoleColor.DarkBlue, ConsoleColor.DarkGray);
+
+            //// ноды не могут по€витьс€ в одном и том же месте: ?
+            List<GameNode> nodeList = new List<GameNode>();
+            nodeList.Add(new GameNode(rnd.Next(field.StartX, field.StartX + field.Width), rnd.Next(field.StartY, field.StartY + field.Height)));
+            nodeList.Add(new GameNode(rnd.Next(field.StartX, field.StartX + field.Width), rnd.Next(field.StartY, field.StartY + field.Height)));
+            nodeList.Add(new GameNode(rnd.Next(field.StartX, field.StartX + field.Width), rnd.Next(field.StartY, field.StartY + field.Height)));
+            //// можно так: ?
+            //GameNode[] nodeList = new GameNode[3];
+            //nodeList[0] = new GameNode(rnd.Next(field.StartX, field.StartX + field.Width), rnd.Next(field.StartY, field.StartY + field.Height));
+            //nodeList[1] = new GameNode(rnd.Next(field.StartX, field.StartX + field.Width), rnd.Next(field.StartY, field.StartY + field.Height));
+            //nodeList[2] = new GameNode(rnd.Next(field.StartX, field.StartX + field.Width), rnd.Next(field.StartY, field.StartY + field.Height));
+            while (Console.ReadKey().Key != ConsoleKey.Escape)
+                Console.Clear();
+            {
+                for (int i = 0; i < 1000; i++)
+                {
+                    ////////////////////////////////////////////////////////
+                    /////  аждый раз создаетс€ новый лист в пам€ти: ?
+                    //List<GameNode> nodeList = new List<GameNode>();
+                    //nodeList.Add(new GameNode(rnd.Next(field.StartX, field.StartX + field.Width), rnd.Next(field.StartY, field.StartY + field.Height)));
+                    //nodeList.Add(new GameNode(rnd.Next(field.StartX, field.StartX + field.Width), rnd.Next(field.StartY, field.StartY + field.Height)));
+                    //nodeList.Add(new GameNode(rnd.Next(field.StartX, field.StartX + field.Width), rnd.Next(field.StartY, field.StartY + field.Height)));
+                    ////////////////////////////////////////////////////////
+                    //for (int j = 0; j < nodeList.Length; j++)
+
+                    for (int j = 0; j < nodeList.Count; j++)
+                    {
+                        if (j == 0)
+                        { dr.DrawNode(nodeList[j], ConsoleColor.Red); }
+                        if (j == 1)
+                        { dr.DrawNode(nodeList[j], ConsoleColor.Green); }
+                        if (j == 2)
+                        { dr.DrawNode(nodeList[j], ConsoleColor.Yellow); }
+
+                        switch (rnd.Next(1, 5))
+                        {
+
+                            case 1:
+                                {
+                                    foreach (var node in nodeList)
+                                    {
+                                        if (nodeList[j].X == node.X && nodeList[j].Y - 1 == node.Y)
+                                        {
+                                            isNodeExist = true;
+                                        }
+                                    }
+
+                                    if (nodeList[j].Y > field.StartY + 1 && isNodeExist == false)
+                                    {
+                                        nodeList[j].MoveUp();
+                                    }
+                                    break;
+
+
+                                }
+                            case 2:
+                                {
+                                    foreach (var node in nodeList)
+                                    {
+                                        if (nodeList[j].X == node.X && nodeList[j].Y == node.Y)
+                                        {
+                                            isNodeExist = true;
+                                        }
+                                    }
+
+                                    if (nodeList[j].Y < field.StartY + (field.Height - 1) && isNodeExist == false)
+                                    {
+                                        nodeList[j].MoveDown();
+                                    }
+                                    break;
+                                }
+                            case 3:
+                                {
+                                    foreach (var node in nodeList)
+                                    {
+                                        if (nodeList[j].X == node.X && nodeList[j].Y == node.Y)
+                                        {
+                                            isNodeExist = true;
+                                        }
+                                    }
+
+                                    if (nodeList[j].X > field.StartX && isNodeExist == false)
+                                    {
+                                        nodeList[j].MoveLeft();
+                                    }
+                                    isNodeExist = false;
+                                    break;
+                                }
+                            case 4:
+                                {
+                                    foreach (var node in nodeList)
+                                    {
+                                        if (nodeList[j].X == node.X && nodeList[j].Y == node.Y)
+                                        {
+                                            isNodeExist = true;
+                                        }
+                                    }
+
+                                    if (nodeList[j].X < field.StartX + (field.Width - 1) && isNodeExist == false)
+                                    {
+                                        nodeList[j].MoveRight();
+                                    }
+                                    isNodeExist = false;
+                                    break;
+
+                                }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
+
+//namespace Game01
+//{
+
+//    class Program
+//    {
+//        static void Main(string[] args)
+//        {
+//            //// Ёкземпл€ры классов:
+//            Console.CursorVisible = false;
+//            Random rnd = new Random();
+//            Drawer dr = new Drawer('@', '#');
+//            GameNode gn = new GameNode(8, 8);
+//            GameField field = new GameField(5, 5, 6, 6);
+
+//            dr.DrawGameFieldFrame(field, ConsoleColor.DarkBlue, ConsoleColor.DarkGray);
+
+//            for (int i = 0; i < 1000; i++)
+//            {
+//                dr.DrawNode(gn, ConsoleColor.Red);
+//                switch (rnd.Next(1, 5))
+//                {
+//                    case 1:
+//                        {
+//                            if (gn.Y > field.StartY)
+//                            {
+//                                gn.MoveUp();
+//                            }
+//                            break;
+//                        }
+//                    case 2:
+//                        {
+//                            if (gn.Y < field.StartY + field.Height - 1)
+//                            {
+//                                gn.MoveDown();
+//                            }
+//                            break;
+//                        }
+//                    case 3:
+//                        {
+//                            if (gn.X > field.StartX)
+//                            {
+//                                gn.MoveLeft();
+//                            }
+//                            break;
+//                        }
+//                    case 4:
+//                        {
+//                            if (gn.X < field.StartX + field.Width - 1)
+//                            {
+//                                gn.MoveRight();
+//                            }
+//                            break;
+//                        }
+//                }
+
+//            }
+//        }
+//    }
+//}
+
+
+
+//////////////////////////////////////////
+
+////using System;
+////using System.Collections.Generic;
+////using System.Linq;
+////using System.Text;
+////using System.Threading.Tasks;
+
+////namespace Game01
+////{
+////    class GameField
+////    {
+////        public int StartX { get; private set; }
+////        public int StartY { get; private set; }
+////        public int Height { get; private set; }
+////        public int Width { get; private set; }
+
+////        public GameField(int height, int width, int startX, int startY)
+////        {
+////            Height = height;
+////            Width = width;
+////            StartX = startX;
+////            StartY = startY;
+////        }
+////    }
+
+////    class Program
+////    {
+////        static void Main(string[] args)
+////        {
+////            Console.CursorVisible = false;
+////            Random rnd = new Random();
+////            Drawer dr = new Drawer('0', '#');
+////            GameNode gn = new GameNode(rnd.Next(6, 10), rnd.Next(6, 10));
+////            GameNode gn2 = new GameNode(rnd.Next(6, 10), rnd.Next(6, 10));
+////            GameNode gn3 = new GameNode(rnd.Next(6, 10), rnd.Next(6, 10));
+
+////            GameField field = new GameField(5, 5, 6, 6);
+
+////            dr.DraweGameFieldFrame(field, ConsoleColor.DarkBlue, ConsoleColor.DarkGray);
+
+////            for (int i = 0; i < 1000; i++)
+////            {
+////                dr.DrawNode(gn, ConsoleColor.Red);
+////                dr.DrawNode(gn2, ConsoleColor.Green);
+////                dr.DrawNode(gn3, ConsoleColor.Yellow);
+
+////                switch (rnd.Next(1, 5))
+////                {
+////                    case 1:
+////                        {
+////                            if (gn.Y > field.StartY && gn2.Y > field.StartY && gn3.Y > field.StartY)
+////                            {
+////                                gn.MoveUp();
+////                                gn2.MoveUp();
+////                                gn3.MoveUp();
+////                            }
+////                            break;
+////                        }
+////                    case 2:
+////                        {
+////                            if (gn.Y < field.StartY + field.Height - 1 &&
+////                                gn2.Y < field.StartY + field.Height - 1 &&
+////                                gn3.Y < field.StartY + field.Height - 1)
+////                            {
+////                                gn.MoveDown();
+////                                gn2.MoveDown();
+////                                gn3.MoveDown();
+////                            }
+////                            break;
+////                        }
+////                    case 3:
+////                        {
+////                            if (gn.X > field.StartX && gn2.X > field.StartX && gn3.X > field.StartX)
+////                            {
+////                                gn.MoveLeft();
+////                                gn2.MoveLeft();
+////                                gn3.MoveLeft();
+////                            }
+////                            break;
+////                        }
+////                    case 4:
+////                        {
+////                            if (gn.X < field.StartX + field.Width - 1 &&
+////                                gn2.X < field.StartX + field.Width - 1 &&
+////                                gn3.X < field.StartX + field.Width - 1)
+////                            {
+////                                gn.MoveRight();
+////                                gn2.MoveRight();
+////                                gn3.MoveRight();
+////                            }
+////                            break;
+////                        }
+////                }
+
+////            }
+////        }
+////    }
+////}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Threading;
+
+namespace Game01
+{
+    class GameNode
+    {
+        private int x;
+        private int y;
+        ////можно так записать короче:
+
+        ////public int X { get; private set; }
+        ////public int Y { get; private set; }
+        ////public GameNode(int X, int Y)
+        ////{
+        ////    x = X;
+        ////    y = Y;
+        ////}
+
+        ////public void MoveUp()
+        ////{
+        ////    Y--;
+        ////}
+        ////.......
+        ///////////////////////////////////////
+        public GameNode(int X, int Y)
+        {
+            x = X;
+            y = Y;
+        }
+
+        public int X
+        {
+            get
+            {
+                return x;
+            }
+            private set
+            {
+                x = value;
+            }
+        }
+        public int Y
+        {
+            get
+            {
+                return y;
+            }
+            private set
+            {
+                y = value;
+            }
+        }
+
+        public void MoveUp()
+        {
+            Y--;
+        }
+
+        public void MoveDown()
+        {
+            Y++;
+        }
+
+        public void MoveLeft()
+        {
+            X--;
+        }
+
+        public void MoveRight()
+        {
+            X++;
+        }
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Threading;
+
+namespace Game01
+{
+    class Drawer
+    {
+        private readonly char gameNodeSymbol;
+        private readonly char frameChar;
+        
+        public Drawer(char gameNodeChar, char FrameChar)
+        {
+            gameNodeSymbol = gameNodeChar;
+            frameChar = FrameChar;
+        }
+
+        private void DrawGameNode(GameNode node, ConsoleColor color)
+        {
+            Console.ForegroundColor = color;
+            Console.SetCursorPosition(node.X, node.Y);
+            Console.WriteLine(gameNodeSymbol);
+        }
+
+        private void ClearGameNode(GameNode node)
+        {
+            Console.SetCursorPosition(node.X, node.Y);
+            Console.WriteLine(' ');
+        }
+
+        public void DrawNode(GameNode node, ConsoleColor color)
+        {
+            DrawGameNode(node, color);
+            Thread.Sleep(5);
+            Console.Beep();
+            ClearGameNode(node);
+        }
+
+        public void DrawGameFieldFrame(GameField field, ConsoleColor color, ConsoleColor color2)
+        {
+            Console.ForegroundColor = color;
+            Console.BackgroundColor = color2;
+            int yPosition = field.StartY - 1;
+            int xPosition = field.StartX - 1;
+
+            for (int i = 0; i < field.Height + 2; i++)
+            {
+                Console.SetCursorPosition(xPosition, yPosition);
+                for (int j = 0; j < field.Width + 2; j++)
+                {
+                    if (i == 0 || i == field.Height + 1)
+                    {
+                        Console.Write(frameChar);
+                    }
+                    else if (j == 0 || j == field.Width + 1)
+                    {
+                        Console.Write(frameChar);
+                    }
+                    else
+                    {
+                        Console.Write(' ');
+                    }
+                }
+                Console.WriteLine();
+                Console.SetCursorPosition(field.StartX, ++yPosition);
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

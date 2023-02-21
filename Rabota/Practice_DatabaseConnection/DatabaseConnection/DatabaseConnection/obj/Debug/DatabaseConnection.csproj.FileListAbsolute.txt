@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\Practice_DatabaseConnection\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe.config
+D:\Программирование\Rabota\Practice_DatabaseConnection\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe
+D:\Программирование\Rabota\Practice_DatabaseConnection\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.pdb
+D:\Программирование\Rabota\Practice_DatabaseConnection\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csprojResolveAssemblyReference.cache
+D:\Программирование\Rabota\Practice_DatabaseConnection\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.exe
+D:\Программирование\Rabota\Practice_DatabaseConnection\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.pdb

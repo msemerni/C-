@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\Test_work_4\Test_work_4\Test_work_4\bin\Debug\Test_work_4.exe.config
+d:\Программирование\Rabota\Test_work_4\Test_work_4\Test_work_4\obj\Debug\Test_work_4.csprojResolveAssemblyReference.cache
+d:\Программирование\Rabota\Test_work_4\Test_work_4\Test_work_4\bin\Debug\Test_work_4.exe
+d:\Программирование\Rabota\Test_work_4\Test_work_4\Test_work_4\bin\Debug\Test_work_4.pdb
+d:\Программирование\Rabota\Test_work_4\Test_work_4\Test_work_4\obj\Debug\Test_work_4.exe
+d:\Программирование\Rabota\Test_work_4\Test_work_4\Test_work_4\obj\Debug\Test_work_4.pdb

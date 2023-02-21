@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\Lection8\Lection9_massiv_mnogomer\Massiv_mnogom\Massiv_mnogom\bin\Debug\Massiv_mnogom.exe.config
+D:\Программирование\Rabota\Lection8\Lection9_massiv_mnogomer\Massiv_mnogom\Massiv_mnogom\obj\Debug\Massiv_mnogom.csprojResolveAssemblyReference.cache
+D:\Программирование\Rabota\Lection8\Lection9_massiv_mnogomer\Massiv_mnogom\Massiv_mnogom\bin\Debug\Massiv_mnogom.exe
+D:\Программирование\Rabota\Lection8\Lection9_massiv_mnogomer\Massiv_mnogom\Massiv_mnogom\bin\Debug\Massiv_mnogom.pdb
+D:\Программирование\Rabota\Lection8\Lection9_massiv_mnogomer\Massiv_mnogom\Massiv_mnogom\obj\Debug\Massiv_mnogom.exe
+D:\Программирование\Rabota\Lection8\Lection9_massiv_mnogomer\Massiv_mnogom\Massiv_mnogom\obj\Debug\Massiv_mnogom.pdb

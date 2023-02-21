@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\Lection11_Klass\Klass1\Klass1\bin\Debug\Klass1.exe.config
+D:\Программирование\Rabota\Lection11_Klass\Klass1\Klass1\bin\Debug\Klass1.exe
+D:\Программирование\Rabota\Lection11_Klass\Klass1\Klass1\bin\Debug\Klass1.pdb
+D:\Программирование\Rabota\Lection11_Klass\Klass1\Klass1\obj\Debug\Klass1.csprojResolveAssemblyReference.cache
+D:\Программирование\Rabota\Lection11_Klass\Klass1\Klass1\obj\Debug\Klass1.exe
+D:\Программирование\Rabota\Lection11_Klass\Klass1\Klass1\obj\Debug\Klass1.pdb

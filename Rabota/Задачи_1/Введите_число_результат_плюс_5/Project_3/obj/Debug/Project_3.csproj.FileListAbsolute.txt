@@ -1,0 +1,9 @@
+D:\Программирование\Работа\1\Project_3\Project_3\bin\Debug\Project_3.exe.config
+D:\Программирование\Работа\1\Project_3\Project_3\bin\Debug\Project_3.exe
+D:\Программирование\Работа\1\Project_3\Project_3\bin\Debug\Project_3.pdb
+D:\Программирование\Работа\1\Project_3\Project_3\obj\Debug\Project_3.exe
+D:\Программирование\Работа\1\Project_3\Project_3\obj\Debug\Project_3.pdb
+D:\Программирование\Работа\1\Project_3\Project_3\obj\Debug\Project_3.csprojResolveAssemblyReference.cache
+D:\Программирование\Работа\pr1\Введите_число_результат_плюс_5\Project_3\bin\Debug\Project_3.exe.config
+D:\Программирование\Работа\pr1\Введите_число_результат_плюс_5\Project_3\obj\Debug\Project_3.exe
+D:\Программирование\Работа\pr1\Введите_число_результат_плюс_5\Project_3\obj\Debug\Project_3.pdb

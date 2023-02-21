@@ -1,0 +1,17 @@
+D:\msemerni\pr\Portret_VS_Album\Portret_VS_Album\bin\Debug\Portret_VS_Album.exe.config
+D:\msemerni\pr\Portret_VS_Album\Portret_VS_Album\bin\Debug\Portret_VS_Album.exe
+D:\msemerni\pr\Portret_VS_Album\Portret_VS_Album\bin\Debug\Portret_VS_Album.pdb
+D:\msemerni\pr\Portret_VS_Album\Portret_VS_Album\obj\Debug\Portret_VS_Album.exe
+D:\msemerni\pr\Portret_VS_Album\Portret_VS_Album\obj\Debug\Portret_VS_Album.pdb
+D:\Программирование\Работа\pr\Portret_VS_Album\Portret_VS_Album\bin\Debug\Portret_VS_Album.exe.config
+D:\Программирование\Работа\pr\Portret_VS_Album\Portret_VS_Album\obj\Debug\Portret_VS_Album.exe
+D:\Программирование\Работа\pr\Portret_VS_Album\Portret_VS_Album\obj\Debug\Portret_VS_Album.pdb
+D:\Программирование\Работа\pr\Portret_VS_Album\Portret_VS_Album\bin\Debug\Portret_VS_Album.exe
+D:\Программирование\Работа\pr\Portret_VS_Album\Portret_VS_Album\bin\Debug\Portret_VS_Album.pdb
+D:\Программирование\Работа\pr\Portret_VS_Album\Portret_VS_Album\obj\Debug\Portret_VS_Album.csprojResolveAssemblyReference.cache
+D:\Программирование\Работа\pr2\Portret_VS_Album\Portret_VS_Album\bin\Debug\Portret_VS_Album.exe.config
+D:\Программирование\Работа\pr2\Portret_VS_Album\Portret_VS_Album\obj\Debug\Portret_VS_Album.exe
+D:\Программирование\Работа\pr2\Portret_VS_Album\Portret_VS_Album\obj\Debug\Portret_VS_Album.pdb
+d:\Программирование\Rabota\pr2\Portret_VS_Album\Portret_VS_Album\bin\Debug\Portret_VS_Album.exe.config
+d:\Программирование\Rabota\pr2\Portret_VS_Album\Portret_VS_Album\obj\Debug\Portret_VS_Album.exe
+d:\Программирование\Rabota\pr2\Portret_VS_Album\Portret_VS_Album\obj\Debug\Portret_VS_Album.pdb

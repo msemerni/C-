@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\DZ_1_1_PosNegZeroNumbers\PosNegZeroNumbers\PosNegZeroNumbers\bin\Debug\PosNegZeroNumbers.exe.config
+D:\Программирование\Rabota\DZ_1_1_PosNegZeroNumbers\PosNegZeroNumbers\PosNegZeroNumbers\bin\Debug\PosNegZeroNumbers.exe
+D:\Программирование\Rabota\DZ_1_1_PosNegZeroNumbers\PosNegZeroNumbers\PosNegZeroNumbers\bin\Debug\PosNegZeroNumbers.pdb
+D:\Программирование\Rabota\DZ_1_1_PosNegZeroNumbers\PosNegZeroNumbers\PosNegZeroNumbers\obj\Debug\PosNegZeroNumbers.exe
+D:\Программирование\Rabota\DZ_1_1_PosNegZeroNumbers\PosNegZeroNumbers\PosNegZeroNumbers\obj\Debug\PosNegZeroNumbers.pdb
+D:\Программирование\Rabota\DZ_1_1_PosNegZeroNumbers\PosNegZeroNumbers\PosNegZeroNumbers\obj\Debug\PosNegZeroNumbers.csprojResolveAssemblyReference.cache

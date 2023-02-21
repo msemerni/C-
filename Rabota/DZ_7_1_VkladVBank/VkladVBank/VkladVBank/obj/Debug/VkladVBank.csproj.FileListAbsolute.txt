@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\DZ_7_1_VkladVBank\VkladVBank\VkladVBank\bin\Debug\VkladVBank.exe.config
+D:\Программирование\Rabota\DZ_7_1_VkladVBank\VkladVBank\VkladVBank\bin\Debug\VkladVBank.exe
+D:\Программирование\Rabota\DZ_7_1_VkladVBank\VkladVBank\VkladVBank\bin\Debug\VkladVBank.pdb
+D:\Программирование\Rabota\DZ_7_1_VkladVBank\VkladVBank\VkladVBank\obj\Debug\VkladVBank.exe
+D:\Программирование\Rabota\DZ_7_1_VkladVBank\VkladVBank\VkladVBank\obj\Debug\VkladVBank.pdb
+D:\Программирование\Rabota\DZ_7_1_VkladVBank\VkladVBank\VkladVBank\obj\Debug\VkladVBank.csprojResolveAssemblyReference.cache

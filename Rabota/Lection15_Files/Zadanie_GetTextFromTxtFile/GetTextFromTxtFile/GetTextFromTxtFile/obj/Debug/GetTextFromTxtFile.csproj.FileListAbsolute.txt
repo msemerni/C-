@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\Lection15_Files\Zadanie_GetTextFromTxtFile\GetTextFromTxtFile\GetTextFromTxtFile\bin\Debug\GetTextFromTxtFile.exe.config
+D:\Программирование\Rabota\Lection15_Files\Zadanie_GetTextFromTxtFile\GetTextFromTxtFile\GetTextFromTxtFile\bin\Debug\GetTextFromTxtFile.exe
+D:\Программирование\Rabota\Lection15_Files\Zadanie_GetTextFromTxtFile\GetTextFromTxtFile\GetTextFromTxtFile\bin\Debug\GetTextFromTxtFile.pdb
+D:\Программирование\Rabota\Lection15_Files\Zadanie_GetTextFromTxtFile\GetTextFromTxtFile\GetTextFromTxtFile\obj\Debug\GetTextFromTxtFile.csprojResolveAssemblyReference.cache
+D:\Программирование\Rabota\Lection15_Files\Zadanie_GetTextFromTxtFile\GetTextFromTxtFile\GetTextFromTxtFile\obj\Debug\GetTextFromTxtFile.exe
+D:\Программирование\Rabota\Lection15_Files\Zadanie_GetTextFromTxtFile\GetTextFromTxtFile\GetTextFromTxtFile\obj\Debug\GetTextFromTxtFile.pdb

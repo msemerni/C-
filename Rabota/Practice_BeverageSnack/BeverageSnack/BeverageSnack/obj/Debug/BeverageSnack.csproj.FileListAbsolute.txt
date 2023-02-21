@@ -1,0 +1,6 @@
+D:\Программирование\Rabota\Practice_BeverageSnack\BeverageSnack\BeverageSnack\bin\Debug\BeverageSnack.exe.config
+D:\Программирование\Rabota\Practice_BeverageSnack\BeverageSnack\BeverageSnack\bin\Debug\BeverageSnack.exe
+D:\Программирование\Rabota\Practice_BeverageSnack\BeverageSnack\BeverageSnack\bin\Debug\BeverageSnack.pdb
+D:\Программирование\Rabota\Practice_BeverageSnack\BeverageSnack\BeverageSnack\obj\Debug\BeverageSnack.csprojResolveAssemblyReference.cache
+D:\Программирование\Rabota\Practice_BeverageSnack\BeverageSnack\BeverageSnack\obj\Debug\BeverageSnack.exe
+D:\Программирование\Rabota\Practice_BeverageSnack\BeverageSnack\BeverageSnack\obj\Debug\BeverageSnack.pdb

@@ -1,0 +1,10 @@
+D:\MV\Программирование\Проекты\WinForms\Clock\obj\Debug\Clock.csprojAssemblyReference.cache
+D:\MV\Программирование\Проекты\WinForms\Clock\obj\Debug\Clock.Form1.resources
+D:\MV\Программирование\Проекты\WinForms\Clock\obj\Debug\Clock.Properties.Resources.resources
+D:\MV\Программирование\Проекты\WinForms\Clock\obj\Debug\Clock.csproj.GenerateResource.cache
+D:\MV\Программирование\Проекты\WinForms\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+D:\MV\Программирование\Проекты\WinForms\Clock\bin\Debug\Clock.exe.config
+D:\MV\Программирование\Проекты\WinForms\Clock\bin\Debug\Clock.exe
+D:\MV\Программирование\Проекты\WinForms\Clock\bin\Debug\Clock.pdb
+D:\MV\Программирование\Проекты\WinForms\Clock\obj\Debug\Clock.exe
+D:\MV\Программирование\Проекты\WinForms\Clock\obj\Debug\Clock.pdb

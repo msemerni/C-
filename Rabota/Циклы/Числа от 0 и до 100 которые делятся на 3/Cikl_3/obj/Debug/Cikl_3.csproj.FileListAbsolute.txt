@@ -1,0 +1,12 @@
+D:\msemerni\Lection_5_cikl\Cikl_3\Cikl_3\bin\Debug\Cikl_3.exe.config
+D:\msemerni\Lection_5_cikl\Cikl_3\Cikl_3\bin\Debug\Cikl_3.exe
+D:\msemerni\Lection_5_cikl\Cikl_3\Cikl_3\bin\Debug\Cikl_3.pdb
+D:\msemerni\Lection_5_cikl\Cikl_3\Cikl_3\obj\Debug\Cikl_3.csprojResolveAssemblyReference.cache
+D:\msemerni\Lection_5_cikl\Cikl_3\Cikl_3\obj\Debug\Cikl_3.exe
+D:\msemerni\Lection_5_cikl\Cikl_3\Cikl_3\obj\Debug\Cikl_3.pdb
+d:\Программирование\Rabota\Lection_5_cikl\Cikl_3\Cikl_3\bin\Debug\Cikl_3.exe.config
+d:\Программирование\Rabota\Lection_5_cikl\Cikl_3\Cikl_3\obj\Debug\Cikl_3.exe
+d:\Программирование\Rabota\Lection_5_cikl\Cikl_3\Cikl_3\obj\Debug\Cikl_3.pdb
+d:\Программирование\Rabota\Lection_5_cikl\Cikl_3\Cikl_3\bin\Debug\Cikl_3.exe
+d:\Программирование\Rabota\Lection_5_cikl\Cikl_3\Cikl_3\bin\Debug\Cikl_3.pdb
+d:\Программирование\Rabota\Lection_5_cikl\Cikl_3\Cikl_3\obj\Debug\Cikl_3.csprojResolveAssemblyReference.cache
